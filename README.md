@@ -6,14 +6,6 @@
   <br>
 </h1>
 
-<div align=left>
-
-<a>[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/xMefy/Discord-Stats)</a>
-<a>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xMefy/discord-stats)</a>
-
-</div>
-
 Ever wondered what Data discord collects? Or did you ever want to view what's inside of a discord package? Discord Stats is a customisable tool that allows you to view your data in a fancy way. You could also use our exporting feature to share your selected data with your friends.
 
 This service **does not** use any third party services and does not collect any data.
